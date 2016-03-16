@@ -19,10 +19,7 @@ public class MainActivity extends AppCompatActivity {
         setSupportActionBar(toolbar);
 //hfghfghfgh
 
-///mlmklklmkl
-        
 
-     //hey,mjet08
 
     }
 
